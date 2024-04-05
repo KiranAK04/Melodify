@@ -1,4 +1,3 @@
-Melodify
 Melodify is a web application designed to provide users with a platform to explore and discover music. The application allows users to register, login, and access features such as adding songs, creating playlists, and more.
 
 Features
